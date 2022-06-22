@@ -1,7 +1,13 @@
 # Run the following commands to run the APP
 
-# npm i              to install the dependencies
-# npx react-native run-android        to run the project
-# npx react-native start              to start Metro server
-# cd android                          to mode to android directory
-# ./gradlew assembleRelease           to build the apk
+### To install the dependencies
+```npm i```
+
+### To run the project
+```npx react-native run-android```
+
+### To start Metro server
+```npx react-native start```
+
+### To run test
+```npm run test```
